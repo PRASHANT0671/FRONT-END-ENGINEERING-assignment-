@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="PRASHANT 2210990671" content="width=device-width, initial-scale=1.0">
+    <title>My Movies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navigationBar">
+        <a class="home" href="index.html" style="text-decoration: None;">Home</a>
+        <a class="bollywood"href="bollywood.html" style="text-decoration: None;">Bollywood</a>
+        <a class="hollywood"href="index.html" style="text-decoration: None;">Hollywood</a>
+         <!-- <a class="followUs"href="followUs" style="text-decoration: None;">Follow Us</a> -->
+        <a href="https://www.instagram.com/prashantvashiist" target="_blank">FOLLOW US</a>
+      </div>
+      <br>
+      <div class = "THE GREAT GATSBY">
+        <img src="greatgatsby.jpeg" alt="THE GREAT GATSBY" width="250" height="250">
+        <h3 class="h3j"> <strong>THE GREAT GATSBY</strong> </h3>
+        <p class = "p3j">Midwest native Nick Carraway arrives in 1922
+            New York in search of the American dream.
+            Nick, a would-be writer, moves in next door to 
+            millionaire Jay Gatsby and across the bay from 
+            his cousin Daisy and her philandering husband 
+            Tom (Joel Edgerton). Thus, Nick becomes drawn into 
+            the captivating world of the wealthy and 
+            -- as he bears witness to their illusions 
+            and deceits -- pens a tale of impossible 
+            love, dreams, and tragedy.</p>       
+      </div>
+      <br><br><br>
+      <div class = "THE GODFATHER TRILOGY">
+        <img src="godfather.jpg" alt="THE GODFATHER TRILOGY" width="250" height="250">
+        <h3 class="h3m"><strong>THE GODFATHER TRILOGY</strong> </h3>
+        <p class = "p3m">The Godfather Trilogy is a series of three American crime films
+            directed by Francis Ford Coppola, based on the novel of the same 
+            name by Mario Puzo. 
+
+            The films follow the story of the Corleone family, 
+            a powerful Italian-American Mafia family, as they navigate their way 
+            through the world of organized crime.
+
+            The first film, released in 1972, tells the story of the patriarch of the 
+            family, Vito Corleone (Marlon Brando), as he tries to maintain control of 
+            his empire amidst a power struggle between rival gangs.
+
+            The second film, released in 1974, is both a prequel and sequel to the first film,
+            exploring the rise of Vito to power and the continuing story of his son Michael (Al Pacino) 
+            as he takes over the family business and tries to legitimize it.
+
+            The third and final film, released in 1990, takes place several years 
+            after the events of the second film and follows an aging Michael as he 
+            tries to atone for his past sins and protect his family from outside threats.
+            Throughout the trilogy, themes of power, family loyalty, betrayal, and redemption are explored,
+            making it one of the most iconic and influential film series in cinematic history.</p>       
+      </div>
+      <br><br><br>
+      <div class = "THE WOLF OF WALL STREET">
+        <img src="wallstreet.jpeg" alt="THE WOLF OF WALL STREET" width="250" height="250">
+        <h3 class="h3g"><strong>THE WOLF OF WALL STREET</strong> </h3>
+        <p class = "p3g">The Wolf of Wall Street" is based on the memoir of Jordan Belfort, a New York stockbroker who ran a fraudulent 
+            penny stock operation in the 1990s.The film follows Belfort's rise from a lowly stockbroker to the head of his 
+            own brokerage firm, Stratton Oakmont, and his eventual downfall due to his excessive drug use, womanizing, and 
+            illegal activities. The movie showcases the extravagant lifestyle of Belfort and his colleagues, including wild 
+            parties, drug use, and outrageous spending on luxury items. Overall, "The Wolf of Wall Street" is a dark and comedic 
+            portrayal of greed, excess, and corruption in the financial world.</p>       
+      </div>
+      <br><br><br>
+      <div class = "THE BATMAN TRILOGY">
+        <img src="THEBATMAN.jpeg" alt="THE BATMAN TRILOGY" width="250" height="250">
+        <h3 class="h3g"><strong>THE BATMAN TRILOGY</strong> </h3>
+        <p class = "p3g">The Batman Trilogy is a series of three movies directed by Christopher Nolan and starring Christian Bale as the caped 
+            crusader, Batman.
+
+            Batman Begins (2005): The first movie explores the origin story of Bruce Wayne/Batman, his training with the League of 
+            Shadows, and his fight against the villainous Ra's al Ghul and the Scarecrow in Gotham City.
+
+            The Dark Knight (2008): In the second movie, Batman faces off against his most iconic foe, the Joker, who wreaks havoc on 
+            Gotham City with his chaos and violence. Batman also teams up with Harvey Dent, the new district attorney of Gotham, to 
+            fight against organized crime.
+
+            The Dark Knight Rises (2012): The final installment of the trilogy sees Batman coming out of retirement to face the formidable Bane, 
+            a masked villain who aims to destroy Gotham City and its citizens. The movie also introduces Selina Kyle, also known as Catwoman, 
+            who allies with Batman to save the city from destruction.</p>       
+      </div>
+      <br><br><br>
+      <div class = "American Psycho">
+        <img src="AMERICANPSYCHO.jpeg" alt="American Psycho" width="250" height="250">
+        <h3 class="h3g"><strong>American Psycho</strong> </h3>
+        <p class = "p3g">A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and 
+            friends as he delves deeper into his violent, hedonistic fantasies. Later, his illogical fantasies escalate and he submits to an 
+            uncontrollable bloodlust.</p>       
+      </div>
+      <br><br><br>
+      <div class = "Zindagi Na Milegi Dobara">
+        <img src="znmd.jpeg" alt="Zindagi Na Milegi Dobara" width="250" height="250">
+        <h3 class="h3g"><strong>Zindagi Na Milegi Dobara</strong> </h3>
+        <p class = "p3g">Friends Kabir, Imran and Arjun go on a bachelor road trip to Spain, where they participate in various adventure sports and explore the beauty 
+            of the country. The film touches on themes of friendship, love, and self-discovery, as the characters confront their fears and learn to live 
+            life to the fullest.The trip turns into an opportunity to mend fences, heal wounds, fall in love with life and combat their worst fears.</p>       
+      </div>
+      <br><br><br>
+      <div class = "CRAZY. STUPID. LOVE.">
+        <img src="CSL.jpeg" alt="CRAZY. STUPID. LOVE." width="250" height="250">
+        <h3 class="h3g"><strong>CRAZY. STUPID. LOVE.</strong> </h3>
+        <p class = "p3g">Cal Weaver (Steve Carell) is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily (Julianne Moore). 
+            Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in 
+            the fickle world of dating. Enter, Jacob Palmer (Ryan Gosling), a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.</p>       
+      </div>
+      <br><br><br>
+      <div class = "The Notebook">
+        <img src="thenotebook.jpeg" alt="The Notebook" width="250" height="250">
+        <h3 class="h3g"><strong>The Notebook</strong> </h3>
+        <p class = "p3g">The Notebook is a romantic drama in the 1940s and follows the love story of a young couple, Noah and Allie, who come from different social backgrounds. 
+            They fall deeply in love during the summer but are separated due to their different social classes. Years later, Allie becomes engaged to another man, 
+            but her feelings for Noah resurface when she reads a notebook that he wrote about their past. The movie explores the themes of love, social class, and 
+            the power of memories.</p>       
+      </div>
+      <br><br><br>
+      <div class = "Fifty Shades of Grey Trilogy">
+        <img src="50SHADES.jpeg" alt="Fifty Shades of Grey Trilogy" width="250" height="250">
+        <h3 class="h3g"><strong>Fifty Shades of Grey Trilogy</strong> </h3>
+        <p class = "p3g">The "Fifty Shades of Grey" trilogy is a series of films based on the novels by E.L. James.
+            "Fifty Shades of Grey" (2015) - The first film introduces us to Anastasia Steele, a literature 
+            student who falls in love with billionaire businessman Christian Grey. As their relationship develops, 
+            Christian reveals his Explicit preferences and asks Ana to sign a contract that outlines the terms of their 
+            relationship. As Ana struggles to come to terms with Christian's lifestyle, their relationship becomes more 
+            complicated and tumultuous.
+
+            "Fifty Shades Darker" (2017) - In the second film, Ana and Christian reconcile after a brief separation. 
+            However, their relationship is tested by Christian's past and the interference of his former lover, Elena. 
+            Meanwhile, Ana is pursued by her boss, Jack Hyde, who becomes increasingly dangerous as the film progresses.
+
+            "Fifty Shades Freed" (2018) - The final film in the trilogy sees Ana and Christian getting married and starting 
+            their life together. However, their happiness is threatened by a vengeful Jack Hyde and a new threat from 
+            Christian's past. As they navigate these challenges, Ana and Christian must also confront their own fears and 
+            insecurities in order to build a stronger relationship.</p>       
+      </div>
+      <br><br><br>
+      <div class = "JAMES BOND FRANCHISE">
+        <img src="BOND.jpeg" alt="JAMES BOND FRANCHISE" width="250" height="250">
+        <h3 class="h3g"><strong>JAMES BOND FRANCHISE</strong> </h3>
+        <p class = "p3g">James Bond is a fictional character created by British author Ian Fleming in 1953. He is a British secret agent who works for MI6, the British 
+            intelligence agency. Bond is known for his intelligence, wit, charm, and expertise in combat and espionage. He has appeared in 27 movies. 
+            Bond is often referred to by his code name, 007, which indicates that he has a "license to kill" in the line of duty. Bond is a cultural icon 
+            and has become synonymous with the spy genre.</p>       
+      </div>
+      
+</body>
+</html>
